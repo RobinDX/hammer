@@ -26,7 +26,7 @@ def user_agent():
 def my_bots():
 	global bots
 	bots=[]
-	bots.append("http://www.xiaobaijidi.net/index.php?uri=)
+	bots.append("http://www.xiaobaijidi.net/index.php?uri=")
 	return(bots)
 
 
