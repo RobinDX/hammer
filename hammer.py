@@ -26,8 +26,7 @@ def user_agent():
 def my_bots():
 	global bots
 	bots=[]
-	bots.append("http://validator.w3.org/check?uri=")
-	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
+	bots.append("http://www.xiaobaijidi.net/index.php?uri=)
 	return(bots)
 
 
